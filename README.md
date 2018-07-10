@@ -113,6 +113,8 @@ The list is (badly) organised by topic. I'm hoping that I'll add things as they 
           - [ ] Wall clock for inference as tested.
           - [ ]  Asymptotic cost for implemented inference scheme, if it's not obvious.
 
+- Safety:
+  - [ ] Any bias problems? Any de-biasing?
 
 - [ ] Any code at all?
 
