@@ -17,6 +17,7 @@ The list is (badly) organised by topic. I'm hoping that I'll add things as they 
     - [ ] What is the estimated human ceiling?
     - [ ] What is the estimated label noise?
     - [ ] How were the final figures selected?
+        - [ ] Quoted for validation or test set?
         - [ ] Multiple training runs?
         - [ ] Which of Best/Worst/Mean/Median performance is quoted?
         - [ ] Ensemble used?
